@@ -10,6 +10,7 @@
       "prefix": "app",
       "schematics": {
         "@schematics/angular:component": {
+          
           "styleext": "scss"
         }
       },
@@ -27,6 +28,8 @@
               "src/assets"
             ],
             "styles": [
+              "C:/Users/zarla/Dropbox/Desktop/New folder/my-angular-site/node_modules/bulma/css/bulma.css",
+              
               "src/styles.scss"
             ],
             "scripts": []
