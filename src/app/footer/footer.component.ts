@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   <div class="container">
   <div class="content has-text-centered">
     <p>
-      Made with <3 by <a href="https://twitter.com/chrisoncode">Chris from Scotch</a>
+      Made by <a href="https://github.com/zarlashta27">Zarlashta Manan</a>
     </p>
   </div>
   </div>

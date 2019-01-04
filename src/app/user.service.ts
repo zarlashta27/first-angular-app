@@ -10,6 +10,7 @@ export class UserService {
   //Define our class properties. apiUrl is what we need
   apiUrl = 'https://api.github.com/users';
 
+
   //Inject the HttpClient as http so we can use it in this class
   constructor(private http: HttpClient) { }
 
